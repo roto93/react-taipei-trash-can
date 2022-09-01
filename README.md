@@ -3,7 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Description
 
 找不到地方丟手邊垃圾? 
-只好秀出台北市的所有公共垃圾桶
+只好一次秀出台北市的所有公共垃圾桶
+PS: 資料錯誤的話我感到ㄅ歉但也沒棒法，請督促政府更新[資料](https://data.gov.tw/dataset/121355)感謝尼
 
 ## Getting Started
 
